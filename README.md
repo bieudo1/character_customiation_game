@@ -5,7 +5,7 @@
 
 -  Managing states and prop drilling (passing props)
 -  Dynamic styles with template literals
--  Managing layers with z-index
+-  Managing layers with `z-index`
 
 ### `npm start`
 
