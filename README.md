@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# character customiation game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## What you'll learn
 
-In the project directory, you can run:
+-Managing states and prop drilling (passing props)
+-Dynamic styles with template literals
+-Managing layers with z-index
 
 ### `npm start`
 
